@@ -12,7 +12,7 @@
 
 ## 🚀 Deployment
 The application is live! You can try it out here:  
-👉 [**(YOUR_STREAMLIT_CLOUD_LINK_HERE)**](https://book-buddy2026.streamlit.app/)
+👉 [**(BOOK-BUDDY)**](https://book-buddy2026.streamlit.app/)
 
 ---
 
