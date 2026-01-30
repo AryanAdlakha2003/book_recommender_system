@@ -47,12 +47,11 @@ $$\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathb
 
 ## 💻 Local Setup
 
-1. **Clone the Repo**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
 
    python -m venv venv
-source venv/Scripts/activate  # Windows (Git Bash)
-pip install -r requirements.txt
-streamlit run app.py
+   ```source venv/Scripts/activate  # Windows (Git Bash)
+   ```pip install -r requirements.txt
+   ```streamlit run app.py
