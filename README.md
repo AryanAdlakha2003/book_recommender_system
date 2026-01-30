@@ -52,6 +52,6 @@ $$\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathb
    cd YOUR_REPO_NAME
 
    python -m venv venv
-   ```source venv/Scripts/activate  # Windows (Git Bash)
-   ```pip install -r requirements.txt
-   ```streamlit run app.py
+   source venv/Scripts/activate  # Windows (Git Bash)
+   pip install -r requirements.txt
+   streamlit run app.py
